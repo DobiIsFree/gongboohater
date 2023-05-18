@@ -64,8 +64,29 @@ next            11607
 0-4       3981005
 ```
 
-CATEGORY = ['event_name', 'name', 'text', 'fqid', 'room_fqid', 'text_fqid', 'level_group']
-NUMERICAL = ['elapsed_time', 'room_coor_x', 'room_coor_y', 'screen_coor_x', 'screen_coor_y', 'hover_duration', 'index', 'level', 'fullscreen', 'hq', 'music']
+```
+CATEGORY = [
+    'event_name', 
+    'name', 
+    'text', 
+    'fqid', 
+    'room_fqid', 
+    'text_fqid', 
+    'level_group'
+]
+
+NUMERICAL = [
+    'elapsed_time', 
+    'room_coor_x', 'room_coor_y', 
+    'screen_coor_x', 'screen_coor_y', 
+    'hover_duration', 
+    'index', 
+    'level', 
+    'fullscreen', 
+    'hq', 
+    'music'
+]
+```
 
 ## train_labels.csv
 
