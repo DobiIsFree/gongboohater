@@ -92,4 +92,9 @@ NUMERICAL = [
 
 session_id, corret, session, q
 
+---
+
+VALID_USER_LIST
+    
+    len: 4713
 
